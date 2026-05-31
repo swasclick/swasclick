@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swasclick&label=Profile%20views&color=0e75b6&style=flat" alt="swasclick" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Tensorflow, Plotly.**
+- 🌱 I’m currently learning **PyTorch, ML Optimisation and writing scalable code**
 
 - 💬 Ask me about **python, data science and machine learning.**
 
